@@ -10,6 +10,8 @@ In this lab you will:
 
 - Demonstrate the tradeoff between bias and variance by way of fitting a machine learning model 
 
+# Check the index.ipynb file for my workings
+
 ## Let's get started!
 
 In this lab, you'll try to predict some movie revenues based on certain factors, such as ratings and movie year. Start by running the following cell which imports all the necessary functions and the dataset: 
